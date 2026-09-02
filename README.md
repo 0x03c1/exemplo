@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A([Início]) --> B[Paciente acessa a plataforma]
     B --> C{Possui cadastro?}
@@ -66,3 +67,4 @@ flowchart TD
     AJ --> AK([Fim])
 
     Y --> AK
+```
